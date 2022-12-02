@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2022-11-26T14:51:46.924157500Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/Awake/.docker/contexts
+[2022-11-26T14:51:46.948972200Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/Awake/.docker/contexts os.Symlink <HOME>/.docker/contexts -> /mnt/c/Users/Awake/.docker/contexts
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2022-11-26T14:51:47.479547700Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/Awake/.aws, linkPath = <HOME>/.aws
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2022-11-26T14:51:48.063629900Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/Awake/.azure, linkPath = <HOME>/.azure
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2022-11-26T14:51:48.701940200Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/Awake/.docker/features.json, linkPath = ~/.docker/features.json
